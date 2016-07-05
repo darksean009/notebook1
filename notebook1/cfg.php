@@ -1,10 +1,10 @@
 <?php
 		
 
-	$user="root";
-	$pass="walerafire";
-	$dbname="notebook";
-	$server="localhost";
+	$user="";
+	$pass="";
+	$dbname="";
+	$server="";
 
 	try {
 
